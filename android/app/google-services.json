@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808434437052",
+    "project_id": "isiproject-ae546",
+    "storage_bucket": "isiproject-ae546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808434437052:android:4ad00e64f4f084856fb9b9",
+        "android_client_info": {
+          "package_name": "com.example.isi_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMKedC3MXDnxLd0JA0Hdumq0xC3s1Hh10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
