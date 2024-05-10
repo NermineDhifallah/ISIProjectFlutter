@@ -41,46 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCeRmGbyT-rHKA5hdc1AFS-pzKxfHmNs5I',
-    appId: '1:808434437052:web:caa044a0a1607daf6fb9b9',
-    messagingSenderId: '808434437052',
-    projectId: 'isiproject-ae546',
-    authDomain: 'isiproject-ae546.firebaseapp.com',
-    storageBucket: 'isiproject-ae546.appspot.com',
+    apiKey: 'xxxxx',
+    appId: 'xxxxxx',
+    messagingSenderId: 'xxxx',
+    projectId: 'xxxxx',
+    authDomain: 'xxxx',
+    storageBucket: 'xxxx',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCMKedC3MXDnxLd0JA0Hdumq0xC3s1Hh10',
-    appId: '1:808434437052:android:4ad00e64f4f084856fb9b9',
-    messagingSenderId: '808434437052',
-    projectId: 'isiproject-ae546',
-    storageBucket: 'isiproject-ae546.appspot.com',
+    apiKey: 'xxxxx',
+    appId: 'xxxxx',
+    messagingSenderId: 'xxxxx',
+    projectId: 'xxxxx',
+    storageBucket: 'xxxxx',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyD8jyQWzu-5CsfB20d3nNkazH_cHWCK1KU',
-    appId: '1:808434437052:ios:84bb3b862bc5c8a26fb9b9',
-    messagingSenderId: '808434437052',
-    projectId: 'isiproject-ae546',
-    storageBucket: 'isiproject-ae546.appspot.com',
-    iosBundleId: 'com.example.isiProject',
+    apiKey: 'xxxxx',
+    appId: 'xxxxx',
+    messagingSenderId: 'xxxxx',
+    projectId: 'xxxxx',
+    storageBucket: 'xxxxx',
+    iosBundleId: 'xxxxx',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyD8jyQWzu-5CsfB20d3nNkazH_cHWCK1KU',
-    appId: '1:808434437052:ios:84bb3b862bc5c8a26fb9b9',
-    messagingSenderId: '808434437052',
-    projectId: 'isiproject-ae546',
-    storageBucket: 'isiproject-ae546.appspot.com',
-    iosBundleId: 'com.example.isiProject',
+    apiKey: 'xxxxx',
+    appId: 'xxxxx',
+    messagingSenderId: 'xxxxx',
+    projectId: 'xxxxx',
+    storageBucket: 'xxxxx',
+    iosBundleId: 'xxxxx',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCeRmGbyT-rHKA5hdc1AFS-pzKxfHmNs5I',
-    appId: '1:808434437052:web:2fb6c0dab8960e386fb9b9',
-    messagingSenderId: '808434437052',
-    projectId: 'isiproject-ae546',
-    authDomain: 'isiproject-ae546.firebaseapp.com',
-    storageBucket: 'isiproject-ae546.appspot.com',
+    apiKey: 'xxxxx',
+    appId: 'xxxxx',
+    messagingSenderId: 'xxxxx',
+    projectId: 'xxxxx',
+    authDomain: 'xxxxx',
+    storageBucket: 'xxxxx',
   );
 }
